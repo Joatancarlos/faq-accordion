@@ -28,5 +28,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [FAQ](https://www.joatancarlos.github.io/faq-accordion)
+- Website - [FAQ](https://joatancarlos.github.io/faq-accordion/)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Joatancarlos)
